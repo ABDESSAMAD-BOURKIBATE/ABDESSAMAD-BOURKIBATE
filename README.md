@@ -1,14 +1,14 @@
 <a href="https://orcid.org/0009-0000-6186-8071">
 <picture>
-  <source media="(prefers-reduced-motion: reduce) and (prefers-color-scheme: dark)" srcset="assets/editorial/hero-dark.png">
-  <source media="(prefers-reduced-motion: reduce)" srcset="assets/editorial/hero-light.png">
-  <source media="(prefers-color-scheme: dark)" srcset="assets/editorial/hero-dark.gif">
-  <source media="(prefers-color-scheme: light)" srcset="assets/editorial/hero-light.gif">
-  <img src="assets/editorial/hero-light.gif" width="1400" alt="Eng. Abdessamad Bourkibate — Software and Cybersecurity Engineer; AI and EdTech; Share'In Holding, Casablanca, Morocco. Handwritten name animation and a consistent professional portrait.">
+  <source media="(prefers-reduced-motion: reduce) and (prefers-color-scheme: dark)" srcset="assets/editorial/hero-violet-dark.png">
+  <source media="(prefers-reduced-motion: reduce)" srcset="assets/editorial/hero-violet-light.png">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/editorial/hero-violet-dark.gif">
+  <source media="(prefers-color-scheme: light)" srcset="assets/editorial/hero-violet-light.gif">
+  <img src="assets/editorial/hero-violet-light.gif" width="1400" alt="Eng. Abdessamad Bourkibate — Cybersecurity and Software Engineering; AI and EdTech; Share'In Holding, Morocco. Progressive handwriting and a transparent violet portrait emblem.">
 </picture>
 </a>
 
-<p align="center"><samp>SOFTWARE ENGINEERING &nbsp; / &nbsp; CYBERSECURITY &nbsp; / &nbsp; APPLIED RESEARCH</samp></p>
+<p align="center"><samp>CYBERSECURITY &nbsp; / &nbsp; SOFTWARE ENGINEERING &nbsp; / &nbsp; APPLIED RESEARCH</samp></p>
 
 <p align="center">
 <a href="#profile">Profile</a> &nbsp; · &nbsp;
