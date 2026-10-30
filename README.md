@@ -10,14 +10,9 @@
 
 <p align="center"><samp>CYBERSECURITY &nbsp; / &nbsp; SOFTWARE ENGINEERING &nbsp; / &nbsp; APPLIED RESEARCH</samp></p>
 
-<p align="center">
-<a href="#profile">Profile</a> &nbsp; · &nbsp;
-<a href="#path">Academic path</a> &nbsp; · &nbsp;
-<a href="#projects">Projects</a> &nbsp; · &nbsp;
-<a href="#technology">Languages & tools</a> &nbsp; · &nbsp;
-<a href="#publications">Publications</a> &nbsp; · &nbsp;
-<a href="docs/CV.md">Research CV</a>
-</p>
+<p align="center"><a href="#profile"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/editorial/nav-profile-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/editorial/nav-profile-light.svg"><img src="assets/editorial/nav-profile-light.svg" width="154" alt="Profile"></picture></a>&nbsp; <a href="#path"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/editorial/nav-path-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/editorial/nav-path-light.svg"><img src="assets/editorial/nav-path-light.svg" width="154" alt="Academic path"></picture></a>&nbsp; <a href="#projects"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/editorial/nav-projects-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/editorial/nav-projects-light.svg"><img src="assets/editorial/nav-projects-light.svg" width="154" alt="Projects"></picture></a></p>
+
+<p align="center"><a href="#technology"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/editorial/nav-technology-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/editorial/nav-technology-light.svg"><img src="assets/editorial/nav-technology-light.svg" width="154" alt="Languages &amp; tools"></picture></a>&nbsp; <a href="#publications"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/editorial/nav-publications-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/editorial/nav-publications-light.svg"><img src="assets/editorial/nav-publications-light.svg" width="154" alt="Publications"></picture></a>&nbsp; <a href="docs/CV.md"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/editorial/nav-cv-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/editorial/nav-cv-light.svg"><img src="assets/editorial/nav-cv-light.svg" width="154" alt="Research CV"></picture></a></p>
 
 <a id="profile"></a>
 <h3>
@@ -54,19 +49,56 @@ My professional interests span secure software development, intelligent applicat
 
 **Academic studies**
 
-| Institution | Area of study | Current status |
-| :--- | :--- | :--- |
-| **University of the People** · United States | Computer Science | Undergraduate studies in progress |
-| **Al Madinah International University** · Malaysia | Quranic Studies | Undergraduate studies in progress |
+<table width="100%">
+<thead>
+<tr>
+<th align="left"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/editorial/icon-academic-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/editorial/icon-academic-light.svg"><img src="assets/editorial/icon-academic-light.svg" width="16" height="16" alt=""></picture>&nbsp; Institution</th>
+<th align="left"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/editorial/icon-book-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/editorial/icon-book-light.svg"><img src="assets/editorial/icon-book-light.svg" width="16" height="16" alt=""></picture>&nbsp; Programme</th>
+<th align="left"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/editorial/icon-clock-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/editorial/icon-clock-light.svg"><img src="assets/editorial/icon-clock-light.svg" width="16" height="16" alt=""></picture>&nbsp; Status</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td valign="top"><b>University of the People</b><br><sub>United States</sub></td>
+<td valign="top">Computer Science</td>
+<td valign="top">Undergraduate studies<br><picture><source media="(prefers-color-scheme: dark)" srcset="assets/editorial/action-progress-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/editorial/action-progress-light.svg"><img src="assets/editorial/action-progress-light.svg" width="112" alt="In progress"></picture></td>
+</tr>
+<tr>
+<td valign="top"><b>Al Madinah International University</b><br><sub>Malaysia</sub></td>
+<td valign="top">Quranic Studies</td>
+<td valign="top">Undergraduate studies<br><picture><source media="(prefers-color-scheme: dark)" srcset="assets/editorial/action-progress-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/editorial/action-progress-light.svg"><img src="assets/editorial/action-progress-light.svg" width="112" alt="In progress"></picture></td>
+</tr>
+</tbody>
+</table>
 
 **Research identity**
 
-| Record | Reference |
-| :--- | :--- |
-| ORCID | [0009-0000-6186-8071](https://orcid.org/0009-0000-6186-8071) |
-| Research profile | [Google Scholar](https://scholar.google.com/citations?user=g9xg-vYAAAAJ) · [ResearchGate](https://www.researchgate.net/profile/Abdessamad-Bourkibate-2) |
-| Professional profile | [LinkedIn](https://www.linkedin.com/in/abdessamad-bourkibate-b17717350/) |
-| Extended biography | [Research CV](docs/CV.md) · [SciProfiles](https://sciprofiles.com/profile/4765148) |
+<table width="100%">
+<thead>
+<tr>
+<th align="left"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/editorial/icon-profile-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/editorial/icon-profile-light.svg"><img src="assets/editorial/icon-profile-light.svg" width="16" height="16" alt=""></picture>&nbsp; Research identity</th>
+<th align="left"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/editorial/icon-link-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/editorial/icon-link-light.svg"><img src="assets/editorial/icon-link-light.svg" width="16" height="16" alt=""></picture>&nbsp; Profile links</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td valign="top"><b>Persistent identifier</b></td>
+<td valign="top"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/editorial/icon-record-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/editorial/icon-record-light.svg"><img src="assets/editorial/icon-record-light.svg" width="16" height="16" alt=""></picture> <a href="https://orcid.org/0009-0000-6186-8071">ORCID 0009-0000-6186-8071</a></td>
+</tr>
+<tr>
+<td valign="top"><b>Research profiles</b></td>
+<td valign="top"><a href="https://scholar.google.com/citations?user=g9xg-vYAAAAJ">Google Scholar</a> &nbsp;·&nbsp; <a href="https://www.researchgate.net/profile/Abdessamad-Bourkibate-2">ResearchGate</a></td>
+</tr>
+<tr>
+<td valign="top"><b>Professional background</b></td>
+<td valign="top"><a href="https://www.linkedin.com/in/abdessamad-bourkibate-b17717350/">LinkedIn</a> &nbsp;·&nbsp; <a href="https://sciprofiles.com/profile/4765148">SciProfiles</a></td>
+</tr>
+<tr>
+<td valign="top"><b>Research CV</b></td>
+<td valign="top"><a href="docs/CV.md"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/editorial/action-cv-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/editorial/action-cv-light.svg"><img src="assets/editorial/action-cv-light.svg" width="65" alt="Open research CV"></picture></a></td>
+</tr>
+</tbody>
+</table>
 
 <details>
 <summary><b>How my two areas of study connect</b></summary>
@@ -107,13 +139,32 @@ These research directions are connected by a shared question: **how can digital 
 </picture>
 </h3>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/editorial/project-table-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="assets/editorial/project-table-light.svg">
-  <img src="assets/editorial/project-table-light.svg" width="1200" alt="Selected projects: MIRA-CSI, AFRICA-ZT-EDU and FamilySec-Pro; research focus and output type.">
-</picture>
-
-[Explore MIRA-CSI](https://github.com/ABDESSAMAD-BOURKIBATE/mira-csi) &nbsp; · &nbsp; [Explore AFRICA-ZT-EDU](https://github.com/ABDESSAMAD-BOURKIBATE/AFRICA-ZT-EDU-Reproducible-Research) &nbsp; · &nbsp; [Explore FamilySec-Pro](https://github.com/ABDESSAMAD-BOURKIBATE/FamilySec-Pro)
+<table width="100%">
+<thead>
+<tr>
+<th align="left"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/editorial/icon-projects-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/editorial/icon-projects-light.svg"><img src="assets/editorial/icon-projects-light.svg" width="16" height="16" alt=""></picture>&nbsp; Project</th>
+<th align="left"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/editorial/icon-shield-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/editorial/icon-shield-light.svg"><img src="assets/editorial/icon-shield-light.svg" width="16" height="16" alt=""></picture>&nbsp; Research / engineering focus</th>
+<th align="left"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/editorial/icon-link-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/editorial/icon-link-light.svg"><img src="assets/editorial/icon-link-light.svg" width="16" height="16" alt=""></picture>&nbsp; Resources</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td valign="top"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/editorial/icon-wireless-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/editorial/icon-wireless-light.svg"><img src="assets/editorial/icon-wireless-light.svg" width="16" height="16" alt=""></picture> <a href="https://github.com/ABDESSAMAD-BOURKIBATE/mira-csi"><b>MIRA-CSI</b></a></td>
+<td valign="top"><b>Wi-Fi CSI activity recognition</b><br><sub>Missing observations and transfer evaluation</sub></td>
+<td valign="top"><a href="https://github.com/ABDESSAMAD-BOURKIBATE/mira-csi"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/editorial/action-code-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/editorial/action-code-light.svg"><img src="assets/editorial/action-code-light.svg" width="72" alt="Source code"></picture></a>&nbsp;<a href="https://doi.org/10.20944/preprints202610.2930.v1"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/editorial/action-doi-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/editorial/action-doi-light.svg"><img src="assets/editorial/action-doi-light.svg" width="68" alt="Citable DOI record"></picture></a></td>
+</tr>
+<tr>
+<td valign="top"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/editorial/icon-shield-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/editorial/icon-shield-light.svg"><img src="assets/editorial/icon-shield-light.svg" width="16" height="16" alt=""></picture> <a href="https://github.com/ABDESSAMAD-BOURKIBATE/AFRICA-ZT-EDU-Reproducible-Research"><b>AFRICA-ZT-EDU</b></a></td>
+<td valign="top"><b>Zero-trust and privacy-oriented architecture</b><br><sub>Cross-border digital education</sub></td>
+<td valign="top"><a href="https://github.com/ABDESSAMAD-BOURKIBATE/AFRICA-ZT-EDU-Reproducible-Research"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/editorial/action-code-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/editorial/action-code-light.svg"><img src="assets/editorial/action-code-light.svg" width="72" alt="Source code"></picture></a>&nbsp;<a href="https://doi.org/10.5281/zenodo.22003109"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/editorial/action-doi-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/editorial/action-doi-light.svg"><img src="assets/editorial/action-doi-light.svg" width="68" alt="Citable DOI record"></picture></a></td>
+</tr>
+<tr>
+<td valign="top"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/editorial/icon-users-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/editorial/icon-users-light.svg"><img src="assets/editorial/icon-users-light.svg" width="16" height="16" alt=""></picture> <a href="https://github.com/ABDESSAMAD-BOURKIBATE/FamilySec-Pro"><b>FamilySec-Pro</b></a></td>
+<td valign="top"><b>Family communication safety</b><br><sub>Suspicious-link and message detection</sub></td>
+<td valign="top"><a href="https://github.com/ABDESSAMAD-BOURKIBATE/FamilySec-Pro"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/editorial/action-code-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/editorial/action-code-light.svg"><img src="assets/editorial/action-code-light.svg" width="72" alt="Source code"></picture></a></td>
+</tr>
+</tbody>
+</table>
 
 #### MIRA-CSI
 
@@ -246,12 +297,32 @@ I use these languages and tools across research software and application develop
 </picture>
 </p>
 
-| Work area | Tools and practice |
-| :--- | :--- |
-| Research software | Python, numerical computing and machine-learning workflows |
-| Applications | JavaScript / TypeScript, React, Django and Flask |
-| Reproducibility | Git, Jupyter notebooks, documented inputs and evaluation procedures |
-| Communication | LaTeX manuscripts, research records and linked citation files |
+<table width="100%">
+<thead>
+<tr>
+<th align="left"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/editorial/icon-tool-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/editorial/icon-tool-light.svg"><img src="assets/editorial/icon-tool-light.svg" width="16" height="16" alt=""></picture>&nbsp; Work area</th>
+<th align="left"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/editorial/icon-code-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/editorial/icon-code-light.svg"><img src="assets/editorial/icon-code-light.svg" width="16" height="16" alt=""></picture>&nbsp; Languages, tools and practice</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td valign="top"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/editorial/icon-cpu-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/editorial/icon-cpu-light.svg"><img src="assets/editorial/icon-cpu-light.svg" width="16" height="16" alt=""></picture> <b>Research software</b></td>
+<td valign="top">Python · numerical computing · machine-learning workflows</td>
+</tr>
+<tr>
+<td valign="top"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/editorial/icon-code-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/editorial/icon-code-light.svg"><img src="assets/editorial/icon-code-light.svg" width="16" height="16" alt=""></picture> <b>Applications</b></td>
+<td valign="top">JavaScript / TypeScript · React · Django · Flask</td>
+</tr>
+<tr>
+<td valign="top"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/editorial/icon-record-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/editorial/icon-record-light.svg"><img src="assets/editorial/icon-record-light.svg" width="16" height="16" alt=""></picture> <b>Reproducibility</b></td>
+<td valign="top">Git · Jupyter notebooks<br><sub>Documented inputs and evaluation procedures</sub></td>
+</tr>
+<tr>
+<td valign="top"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/editorial/icon-paper-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/editorial/icon-paper-light.svg"><img src="assets/editorial/icon-paper-light.svg" width="16" height="16" alt=""></picture> <b>Scientific communication</b></td>
+<td valign="top">LaTeX · research records · citation files</td>
+</tr>
+</tbody>
+</table>
 
 <a id="publications"></a>
 <h3>
@@ -266,19 +337,72 @@ The catalogue below links to my research outputs and identifies their publicatio
 
 Author: **Abdessamad Bourkibate**.
 
-| Year | Output | Type / source |
-| :--- | :--- | :--- |
-| 2026 | [Reliability Assessment of Wi-Fi CSI-Based Activity Recognition Under Environmental Shift and Structured Measurement Loss](https://doi.org/10.20944/preprints202610.2930.v1) | Preprint · Preprints.org |
-| 2026 | [AFRICA-ZT-EDU: A Policy-Centric Zero-Trust and Privacy-Preserving Architecture for Cross-Border Digital Education in Africa](https://doi.org/10.5281/zenodo.22003109) | Research software · Zenodo |
-| 2026 | [فقه الأمن السيبراني الأسري وتحديات السيادة الرقمية: مقاربة تأصيلية في ضوء القواعد الفقهية والتشريعات القانونية](https://www.ruaafikriya.net/fr/articles/c3d7ff05-9284-4491-9f29-6b64d57e90a3) | Journal article · مجلة رؤى فكرية · issue 2 |
-| 2026 | [Risk to Obligation Mapping in Family Cybersecurity Jurisprudence: A Normative-Operational Supplement](https://doi.org/10.31219/osf.io/vd8ye_v1) | Preprint · OSF |
-| 2026 | [Family Cybersecurity Jurisprudence (FCJ): A Foundational Interdisciplinary Framework Integrating Islamic Legal Theory, Cybersecurity Engineering, and Digital Family Psychology](https://doi.org/10.2139/ssrn.6099606) | Preprint · SSRN; [OSF version](https://doi.org/10.31219/osf.io/yhmgx_v1) |
-| 2026 | [Entropy-Driven Gradient Stability in Large Language Models: A Non-Equilibrium Thermodynamic Framework for Reinforcement Learning Optimization](https://doi.org/10.21203/rs.3.rs-8812364/v1) | Preprint · Research Square |
-| 2026 | [Quantifying Vulnerability in Sociotechnical Family Systems: A Centrality-Based Mitigation Framework](https://doi.org/10.36227/techrxiv.176948811.18136133/v1) | Preprint · TechRxiv |
-| 2026 | [The Sovereign Home Protocol: Re-Engineering Digital Immunity Through Embedded Network Isolation and the Axiological Dimension of Privacy](https://doi.org/10.2139/ssrn.5935436) | Working paper · SSRN; written December 2025 |
-| 2025 | [الطفولة الرقمية في المغرب: الذكاء الاصطناعي والذكاء العاطفي من منظور فقه الأمن السيبراني الأسري](https://doi.org/10.5281/zenodo.17167669) | Research proposal · Zenodo |
-| 2025 | [دليل فقه الأمن السيبراني الأسري](https://doi.org/10.5281/zenodo.17108085) | Guide · Zenodo; [ResearchGate version](https://doi.org/10.13140/RG.2.2.25358.42566) |
-| 2025 | [ترند Ghibli Style في عصر الذكاء الاصطناعي: قراءة تحليلية بين الإبداع والتأثير الاجتماعي في سياق مشروع Veo Google](https://doi.org/10.13140/RG.2.2.20973.50406) | Research manuscript · ResearchGate |
+<table width="100%">
+<thead>
+<tr>
+<th align="left"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/editorial/icon-calendar-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/editorial/icon-calendar-light.svg"><img src="assets/editorial/icon-calendar-light.svg" width="16" height="16" alt=""></picture>&nbsp; Year</th>
+<th align="left"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/editorial/icon-publications-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/editorial/icon-publications-light.svg"><img src="assets/editorial/icon-publications-light.svg" width="16" height="16" alt=""></picture>&nbsp; Research output</th>
+<th align="left"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/editorial/icon-record-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/editorial/icon-record-light.svg"><img src="assets/editorial/icon-record-light.svg" width="16" height="16" alt=""></picture>&nbsp; Publication record</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td valign="top"><b>2026</b></td>
+<td valign="top"><b><a href="https://doi.org/10.20944/preprints202610.2930.v1">Reliability Assessment of Wi-Fi CSI-Based Activity Recognition Under Environmental Shift and Structured Measurement Loss</a></b></td>
+<td valign="top"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/editorial/format-preprint-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/editorial/format-preprint-light.svg"><img src="assets/editorial/format-preprint-light.svg" width="96" alt="Preprint"></picture><br><sub>Preprints.org</sub></td>
+</tr>
+<tr>
+<td valign="top"><b>2026</b></td>
+<td valign="top"><b><a href="https://doi.org/10.5281/zenodo.22003109">AFRICA-ZT-EDU: A Policy-Centric Zero-Trust and Privacy-Preserving Architecture for Cross-Border Digital Education in Africa</a></b></td>
+<td valign="top"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/editorial/format-software-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/editorial/format-software-light.svg"><img src="assets/editorial/format-software-light.svg" width="96" alt="Research software"></picture><br><sub>Zenodo</sub></td>
+</tr>
+<tr>
+<td valign="top"><b>2026</b></td>
+<td valign="top"><b><a href="https://www.ruaafikriya.net/fr/articles/c3d7ff05-9284-4491-9f29-6b64d57e90a3">فقه الأمن السيبراني الأسري وتحديات السيادة الرقمية: مقاربة تأصيلية في ضوء القواعد الفقهية والتشريعات القانونية</a></b></td>
+<td valign="top"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/editorial/format-article-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/editorial/format-article-light.svg"><img src="assets/editorial/format-article-light.svg" width="89" alt="Journal article"></picture><br><sub>مجلة رؤى فكرية · issue 2</sub></td>
+</tr>
+<tr>
+<td valign="top"><b>2026</b></td>
+<td valign="top"><b><a href="https://doi.org/10.31219/osf.io/vd8ye_v1">Risk to Obligation Mapping in Family Cybersecurity Jurisprudence: A Normative-Operational Supplement</a></b></td>
+<td valign="top"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/editorial/format-preprint-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/editorial/format-preprint-light.svg"><img src="assets/editorial/format-preprint-light.svg" width="96" alt="Preprint"></picture><br><sub>OSF</sub></td>
+</tr>
+<tr>
+<td valign="top"><b>2026</b></td>
+<td valign="top"><b><a href="https://doi.org/10.2139/ssrn.6099606">Family Cybersecurity Jurisprudence (FCJ): A Foundational Interdisciplinary Framework Integrating Islamic Legal Theory, Cybersecurity Engineering, and Digital Family Psychology</a></b></td>
+<td valign="top"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/editorial/format-preprint-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/editorial/format-preprint-light.svg"><img src="assets/editorial/format-preprint-light.svg" width="96" alt="Preprint"></picture><br><sub>SSRN; <a href="https://doi.org/10.31219/osf.io/yhmgx_v1">OSF version</a></sub></td>
+</tr>
+<tr>
+<td valign="top"><b>2026</b></td>
+<td valign="top"><b><a href="https://doi.org/10.21203/rs.3.rs-8812364/v1">Entropy-Driven Gradient Stability in Large Language Models: A Non-Equilibrium Thermodynamic Framework for Reinforcement Learning Optimization</a></b></td>
+<td valign="top"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/editorial/format-preprint-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/editorial/format-preprint-light.svg"><img src="assets/editorial/format-preprint-light.svg" width="96" alt="Preprint"></picture><br><sub>Research Square</sub></td>
+</tr>
+<tr>
+<td valign="top"><b>2026</b></td>
+<td valign="top"><b><a href="https://doi.org/10.36227/techrxiv.176948811.18136133/v1">Quantifying Vulnerability in Sociotechnical Family Systems: A Centrality-Based Mitigation Framework</a></b></td>
+<td valign="top"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/editorial/format-preprint-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/editorial/format-preprint-light.svg"><img src="assets/editorial/format-preprint-light.svg" width="96" alt="Preprint"></picture><br><sub>TechRxiv</sub></td>
+</tr>
+<tr>
+<td valign="top"><b>2026</b></td>
+<td valign="top"><b><a href="https://doi.org/10.2139/ssrn.5935436">The Sovereign Home Protocol: Re-Engineering Digital Immunity Through Embedded Network Isolation and the Axiological Dimension of Privacy</a></b></td>
+<td valign="top"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/editorial/format-working-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/editorial/format-working-light.svg"><img src="assets/editorial/format-working-light.svg" width="131" alt="Working paper"></picture><br><sub>SSRN; written December 2025</sub></td>
+</tr>
+<tr>
+<td valign="top"><b>2025</b></td>
+<td valign="top"><b><a href="https://doi.org/10.5281/zenodo.17167669">الطفولة الرقمية في المغرب: الذكاء الاصطناعي والذكاء العاطفي من منظور فقه الأمن السيبراني الأسري</a></b></td>
+<td valign="top"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/editorial/format-proposal-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/editorial/format-proposal-light.svg"><img src="assets/editorial/format-proposal-light.svg" width="96" alt="Research proposal"></picture><br><sub>Zenodo</sub></td>
+</tr>
+<tr>
+<td valign="top"><b>2025</b></td>
+<td valign="top"><b><a href="https://doi.org/10.5281/zenodo.17108085">دليل فقه الأمن السيبراني الأسري</a></b></td>
+<td valign="top"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/editorial/format-guide-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/editorial/format-guide-light.svg"><img src="assets/editorial/format-guide-light.svg" width="88" alt="Guide"></picture><br><sub>Zenodo; <a href="https://doi.org/10.13140/RG.2.2.25358.42566">ResearchGate version</a></sub></td>
+</tr>
+<tr>
+<td valign="top"><b>2025</b></td>
+<td valign="top"><b><a href="https://doi.org/10.13140/RG.2.2.20973.50406">ترند Ghibli Style في عصر الذكاء الاصطناعي: قراءة تحليلية بين الإبداع والتأثير الاجتماعي في سياق مشروع Veo Google</a></b></td>
+<td valign="top"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/editorial/format-manuscript-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/editorial/format-manuscript-light.svg"><img src="assets/editorial/format-manuscript-light.svg" width="110" alt="Research manuscript"></picture><br><sub>ResearchGate</sub></td>
+</tr>
+</tbody>
+</table>
 
 **Citation resources**
 
@@ -333,13 +457,36 @@ For my professional background and updates: [LinkedIn](https://www.linkedin.com/
 
 I welcome focused collaboration in the following areas:
 
-| Topic | Potential contribution |
-| :--- | :--- |
-| Reliable machine learning | Reproducible evaluation, missing-data experiments and model reliability |
-| Wireless sensing | CSI activity-recognition experiments and analysis of transfer conditions |
-| Privacy & security | Privacy-oriented architectures, secure software and zero-trust systems |
-| AI & EdTech | Intelligent applications and technology-supported learning |
-| Digital society | Family cybersecurity, digital ethics and interdisciplinary research |
+<table width="100%">
+<thead>
+<tr>
+<th align="left"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/editorial/icon-users-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/editorial/icon-users-light.svg"><img src="assets/editorial/icon-users-light.svg" width="16" height="16" alt=""></picture>&nbsp; Collaboration area</th>
+<th align="left"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/editorial/icon-projects-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/editorial/icon-projects-light.svg"><img src="assets/editorial/icon-projects-light.svg" width="16" height="16" alt=""></picture>&nbsp; Potential contribution</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td valign="top"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/editorial/icon-cpu-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/editorial/icon-cpu-light.svg"><img src="assets/editorial/icon-cpu-light.svg" width="16" height="16" alt=""></picture> <b>Reliable machine learning</b></td>
+<td valign="top">Reproducible evaluation, missing-data experiments and model reliability</td>
+</tr>
+<tr>
+<td valign="top"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/editorial/icon-wireless-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/editorial/icon-wireless-light.svg"><img src="assets/editorial/icon-wireless-light.svg" width="16" height="16" alt=""></picture> <b>Wireless sensing</b></td>
+<td valign="top">CSI activity-recognition experiments and analysis of transfer conditions</td>
+</tr>
+<tr>
+<td valign="top"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/editorial/icon-shield-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/editorial/icon-shield-light.svg"><img src="assets/editorial/icon-shield-light.svg" width="16" height="16" alt=""></picture> <b>Privacy &amp; security</b></td>
+<td valign="top">Privacy-oriented architectures, secure software and zero-trust systems</td>
+</tr>
+<tr>
+<td valign="top"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/editorial/icon-book-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/editorial/icon-book-light.svg"><img src="assets/editorial/icon-book-light.svg" width="16" height="16" alt=""></picture> <b>AI &amp; EdTech</b></td>
+<td valign="top">Intelligent applications and technology-supported learning</td>
+</tr>
+<tr>
+<td valign="top"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/editorial/icon-users-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/editorial/icon-users-light.svg"><img src="assets/editorial/icon-users-light.svg" width="16" height="16" alt=""></picture> <b>Digital society</b></td>
+<td valign="top">Family cybersecurity, digital ethics and interdisciplinary research</td>
+</tr>
+</tbody>
+</table>
 
 For research or professional enquiries: **[a.bourkibate@share-in.ma](mailto:a.bourkibate@share-in.ma)**.
 
