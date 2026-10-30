@@ -305,65 +305,17 @@ Author: **Abdessamad Bourkibate**.
 My connected research profiles and publication records. Select a platform to open the corresponding profile or work.
 
 <p align="center">
-<a href="https://orcid.org/0009-0000-6186-8071">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/editorial/network-orcid-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="assets/editorial/network-orcid-light.svg">
-  <img src="assets/editorial/network-orcid-light.svg" width="170" alt="ORCID">
-</picture>
-</a>
-<a href="https://scholar.google.com/citations?user=g9xg-vYAAAAJ">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/editorial/network-googlescholar-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="assets/editorial/network-googlescholar-light.svg">
-  <img src="assets/editorial/network-googlescholar-light.svg" width="170" alt="Google Scholar">
-</picture>
-</a>
-<a href="https://www.researchgate.net/profile/Abdessamad-Bourkibate-2">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/editorial/network-researchgate-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="assets/editorial/network-researchgate-light.svg">
-  <img src="assets/editorial/network-researchgate-light.svg" width="170" alt="ResearchGate">
-</picture>
-</a>
-<a href="https://sciprofiles.com/profile/4765148">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/editorial/network-sciprofiles-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="assets/editorial/network-sciprofiles-light.svg">
-  <img src="assets/editorial/network-sciprofiles-light.svg" width="170" alt="SciProfiles">
-</picture>
-</a>
+<a href="https://orcid.org/0009-0000-6186-8071"><picture>  <source media="(prefers-color-scheme: dark)" srcset="assets/editorial/network-orcid-dark.svg">  <source media="(prefers-color-scheme: light)" srcset="assets/editorial/network-orcid-light.svg">  <img src="assets/editorial/network-orcid-light.svg" width="170" alt="ORCID"></picture></a>
+<a href="https://scholar.google.com/citations?user=g9xg-vYAAAAJ"><picture>  <source media="(prefers-color-scheme: dark)" srcset="assets/editorial/network-googlescholar-dark.svg">  <source media="(prefers-color-scheme: light)" srcset="assets/editorial/network-googlescholar-light.svg">  <img src="assets/editorial/network-googlescholar-light.svg" width="170" alt="Google Scholar"></picture></a>
+<a href="https://www.researchgate.net/profile/Abdessamad-Bourkibate-2"><picture>  <source media="(prefers-color-scheme: dark)" srcset="assets/editorial/network-researchgate-dark.svg">  <source media="(prefers-color-scheme: light)" srcset="assets/editorial/network-researchgate-light.svg">  <img src="assets/editorial/network-researchgate-light.svg" width="170" alt="ResearchGate"></picture></a>
+<a href="https://sciprofiles.com/profile/4765148"><picture>  <source media="(prefers-color-scheme: dark)" srcset="assets/editorial/network-sciprofiles-dark.svg">  <source media="(prefers-color-scheme: light)" srcset="assets/editorial/network-sciprofiles-light.svg">  <img src="assets/editorial/network-sciprofiles-light.svg" width="170" alt="SciProfiles"></picture></a>
 </p>
 
 <p align="center">
-<a href="https://doi.org/10.5281/zenodo.22003109">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/editorial/network-zenodo-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="assets/editorial/network-zenodo-light.svg">
-  <img src="assets/editorial/network-zenodo-light.svg" width="170" alt="Zenodo software record">
-</picture>
-</a>
-<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6099606">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/editorial/network-ssrn-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="assets/editorial/network-ssrn-light.svg">
-  <img src="assets/editorial/network-ssrn-light.svg" width="170" alt="SSRN research record">
-</picture>
-</a>
-<a href="https://independent.academia.edu/ABOURKIBATE">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/editorial/network-academia-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="assets/editorial/network-academia-light.svg">
-  <img src="assets/editorial/network-academia-light.svg" width="170" alt="Academia.edu">
-</picture>
-</a>
-<a href="https://loop.frontiersin.org/people/3215859/overview">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/editorial/network-frontiers-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="assets/editorial/network-frontiers-light.svg">
-  <img src="assets/editorial/network-frontiers-light.svg" width="170" alt="Frontiers Loop">
-</picture>
-</a>
+<a href="https://doi.org/10.5281/zenodo.22003109"><picture>  <source media="(prefers-color-scheme: dark)" srcset="assets/editorial/network-zenodo-dark.svg">  <source media="(prefers-color-scheme: light)" srcset="assets/editorial/network-zenodo-light.svg">  <img src="assets/editorial/network-zenodo-light.svg" width="170" alt="Zenodo software record"></picture></a>
+<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6099606"><picture>  <source media="(prefers-color-scheme: dark)" srcset="assets/editorial/network-ssrn-dark.svg">  <source media="(prefers-color-scheme: light)" srcset="assets/editorial/network-ssrn-light.svg">  <img src="assets/editorial/network-ssrn-light.svg" width="170" alt="SSRN research record"></picture></a>
+<a href="https://independent.academia.edu/ABOURKIBATE"><picture>  <source media="(prefers-color-scheme: dark)" srcset="assets/editorial/network-academia-dark.svg">  <source media="(prefers-color-scheme: light)" srcset="assets/editorial/network-academia-light.svg">  <img src="assets/editorial/network-academia-light.svg" width="170" alt="Academia.edu"></picture></a>
+<a href="https://loop.frontiersin.org/people/3215859/overview"><picture>  <source media="(prefers-color-scheme: dark)" srcset="assets/editorial/network-frontiers-dark.svg">  <source media="(prefers-color-scheme: light)" srcset="assets/editorial/network-frontiers-light.svg">  <img src="assets/editorial/network-frontiers-light.svg" width="170" alt="Frontiers Loop"></picture></a>
 </p>
 
 **Publication repositories:** [Preprints.org](https://www.preprints.org/manuscript/202610.2930) · [OSF](https://osf.io/gs3by/) · [Research Square](https://doi.org/10.21203/rs.3.rs-8812364/v1) · [TechRxiv](https://doi.org/10.36227/techrxiv.176948811.18136133/v1)
