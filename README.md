@@ -442,7 +442,14 @@ My connected research profiles and publication records. Select a platform to ope
 <a href="https://loop.frontiersin.org/people/3215859/overview"><picture>  <source media="(prefers-color-scheme: dark)" srcset="assets/editorial/network-frontiers-dark.svg">  <source media="(prefers-color-scheme: light)" srcset="assets/editorial/network-frontiers-light.svg">  <img src="assets/editorial/network-frontiers-light.svg" width="170" alt="Frontiers Loop"></picture></a>
 </p>
 
-**Publication repositories:** [Preprints.org](https://www.preprints.org/manuscript/202610.2930) · [OSF](https://osf.io/gs3by/) · [Research Square](https://doi.org/10.21203/rs.3.rs-8812364/v1) · [TechRxiv](https://doi.org/10.36227/techrxiv.176948811.18136133/v1)
+**Publication repositories**
+
+<p align="center">
+<a href="https://www.preprints.org/manuscript/202610.2930"><picture>  <source media="(prefers-color-scheme: dark)" srcset="assets/editorial/network-preprints-dark.svg">  <source media="(prefers-color-scheme: light)" srcset="assets/editorial/network-preprints-light.svg">  <img src="assets/editorial/network-preprints-light.svg" width="170" alt="Preprints.org"></picture></a>
+<a href="https://osf.io/gs3by/"><picture>  <source media="(prefers-color-scheme: dark)" srcset="assets/editorial/network-osf-dark.svg">  <source media="(prefers-color-scheme: light)" srcset="assets/editorial/network-osf-light.svg">  <img src="assets/editorial/network-osf-light.svg" width="170" alt="OSF"></picture></a>
+<a href="https://doi.org/10.21203/rs.3.rs-8812364/v1"><picture>  <source media="(prefers-color-scheme: dark)" srcset="assets/editorial/network-researchsquare-dark.svg">  <source media="(prefers-color-scheme: light)" srcset="assets/editorial/network-researchsquare-light.svg">  <img src="assets/editorial/network-researchsquare-light.svg" width="170" alt="Research Square"></picture></a>
+<a href="https://doi.org/10.36227/techrxiv.176948811.18136133/v1"><picture>  <source media="(prefers-color-scheme: dark)" srcset="assets/editorial/network-techrxiv-dark.svg">  <source media="(prefers-color-scheme: light)" srcset="assets/editorial/network-techrxiv-light.svg">  <img src="assets/editorial/network-techrxiv-light.svg" width="170" alt="TechRxiv"></picture></a>
+</p>
 
 For my professional background and updates: [LinkedIn](https://www.linkedin.com/in/abdessamad-bourkibate-b17717350/).
 
