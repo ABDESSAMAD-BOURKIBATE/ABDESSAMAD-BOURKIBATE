@@ -11,5 +11,6 @@ Retrieved from each service's official website on 30 October 2026. The marks ide
 | OSF (Open Science Framework) | [Center for Open Science's source repository](https://github.com/CenterForOpenScience/osf.io/blob/de170682924278eba1db9d6e1c50166bf43700e0/website/static/img/circle_logo.png) | `osf-official.png` is the original 165 × 165 circle mark from the OSF application. |
 | Research Square | [Official touch icon](https://www.researchsquare.com/static/favicons/apple-touch-icon.png) | `researchsquare-official.png` is the original 180 × 180 icon linked by the homepage. |
 | TechRxiv | [Official site icon](https://www.techrxiv.org/products/authorea/techrxiv/releasedAssets/images/favicon/favicon-1f989ea94ea7f0da2830fd1ddde07596.ico) | `techrxiv-official.ico`; its original 256 × 256 frame is exported losslessly as `techrxiv-official.png`. |
+| LinkedIn | [Official [in] logo assets](https://brand.linkedin.com/in-logo) · [official archive](https://content.linkedin.com/content/dam/me/business/en-us/amp/xbu/linkedin-revised-brand-guidelines/logos/in-logo.zip) | `linkedin-official.png` is the original `LI-In-Bug.png` from the archive. Its blue colour, proportions, transparency and registration symbol are retained. |
 
 The badges preserve the icons' colours and proportions. Only their surrounding service labels change between light and dark themes.

@@ -451,7 +451,11 @@ My connected research profiles and publication records. Select a platform to ope
 <a href="https://doi.org/10.36227/techrxiv.176948811.18136133/v1"><picture>  <source media="(prefers-color-scheme: dark)" srcset="assets/editorial/network-techrxiv-dark.svg">  <source media="(prefers-color-scheme: light)" srcset="assets/editorial/network-techrxiv-light.svg">  <img src="assets/editorial/network-techrxiv-light.svg" width="170" alt="TechRxiv"></picture></a>
 </p>
 
-For my professional background and updates: [LinkedIn](https://www.linkedin.com/in/abdessamad-bourkibate-b17717350/).
+**Professional network**
+
+<p align="center">
+<a href="https://www.linkedin.com/in/abdessamad-bourkibate-b17717350/"><picture>  <source media="(prefers-color-scheme: dark)" srcset="assets/editorial/network-linkedin-dark.svg">  <source media="(prefers-color-scheme: light)" srcset="assets/editorial/network-linkedin-light.svg">  <img src="assets/editorial/network-linkedin-light.svg" width="170" alt="LinkedIn"></picture></a>
+</p>
 
 <a id="collaboration"></a>
 <h3>
