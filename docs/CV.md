@@ -3,6 +3,10 @@
 **Software & Cybersecurity Engineer | AI & EdTech**  
 Share'In Holding · Casablanca, Morocco
 
+[Download professional CV (PDF)](Abdessamad-Bourkibate-Professional-CV.pdf) · [Download research CV (PDF)](Abdessamad-Bourkibate-Research-CV.pdf)
+
+The professional CV is the latest employment-focused document supplied by the author. This research CV adds publication records and research software. Updated 30 October 2026.
+
 [ORCID](https://orcid.org/0009-0000-6186-8071) · [Google Scholar](https://scholar.google.com/citations?user=g9xg-vYAAAAJ) · [ResearchGate](https://www.researchgate.net/profile/Abdessamad-Bourkibate-2) · [LinkedIn](https://www.linkedin.com/in/abdessamad-bourkibate-b17717350/) · [Professional contact](mailto:a.bourkibate@share-in.ma)
 
 ### Profile
@@ -14,7 +18,19 @@ Software and cybersecurity engineer working across artificial intelligence and e
 **Share'In Holding — Software & Cybersecurity Engineer | AI & EdTech**  
 Casablanca, Morocco
 
-Software development and security engineering with interests in intelligent systems, digital learning and privacy-oriented design.
+April 2026–present · Hybrid · Casablanca, Morocco
+
+Moodle platform architecture, AI-supported educational workflows, security by design and vulnerability assessment.
+
+**MASAQ Center — Head of Technical Committee**<br>
+September 2025–present · Fès, Morocco
+
+Technical team coordination, audiovisual infrastructure and livestreaming for conferences and educational events.
+
+**La Route du Succès Étudiant — Founder**<br>
+Established 2021 · Online educational platform
+
+Academic guidance, study materials, exam information and educational content using HTML, CSS, JavaScript and WordPress.
 
 ### Academic studies
 
@@ -22,6 +38,15 @@ Software development and security engineering with interests in intelligent syst
 | :--- | :--- | :--- |
 | University of the People, United States | Computer Science | Undergraduate studies in progress |
 | Al Madinah International University, Malaysia | Quranic Studies | Undergraduate studies in progress |
+
+### Professional training & certifications
+
+- OFPPT, Morocco — Specialized Technician Diploma in Electricity and Energy, 2022–2024.
+- Geeks Institute / LaStartUpStation, Technopark Casablanca — AI Full-Stack Web Development Bootcamp, October–December 2025.
+- IBM — AI Engineering Professional Certificate.
+- Google — Cybersecurity Professional Certificate.
+- Agence de Développement du Digital — Digital Pass.
+- Afric’ Artech 2026 Hackathon — Development of the “Dream Build” generative AI solution for the creative industry.
 
 ### Research areas
 
@@ -62,6 +87,10 @@ Author: **Abdessamad Bourkibate**. Publication types are stated separately below
 
 ### Technical practice
 
-Python, JavaScript, TypeScript, PyTorch, scikit-learn, NumPy, pandas, React, Django, Flask, Git, Docker, Jupyter and LaTeX.
+Python, JavaScript, TypeScript, Java, PHP and SQL; PyTorch, scikit-learn, NumPy, pandas, OpenCV, Streamlit, React, Django and Flask; MySQL, SQLite, Git, Docker, Linux, Moodle administration, network security, Jupyter and LaTeX.
+
+### Languages
+
+Arabic: fluent · French: professional working proficiency · English: technical proficiency.
 
 [Back to profile](../README.md)

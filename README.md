@@ -14,6 +14,8 @@
 
 <p align="center"><a href="#technology"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/editorial/nav-technology-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/editorial/nav-technology-light.svg"><img src="assets/editorial/nav-technology-light.svg" width="154" alt="Languages &amp; tools"></picture></a>&nbsp; <a href="#publications"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/editorial/nav-publications-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/editorial/nav-publications-light.svg"><img src="assets/editorial/nav-publications-light.svg" width="154" alt="Publications"></picture></a>&nbsp; <a href="docs/CV.md"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/editorial/nav-cv-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/editorial/nav-cv-light.svg"><img src="assets/editorial/nav-cv-light.svg" width="154" alt="Research CV"></picture></a></p>
 
+<p align="center"><a href="docs/Abdessamad-Bourkibate-Professional-CV.pdf"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/editorial/action-professional-cv-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/editorial/action-professional-cv-light.svg"><img src="assets/editorial/action-professional-cv-light.svg" width="204" alt="Download professional CV (PDF)"></picture></a></p>
+
 <a id="profile"></a>
 <h3>
 <picture>
@@ -45,7 +47,7 @@ I develop research software, document experiments and write across these connect
 **Share'In Holding — Software & Cybersecurity Engineer | AI & EdTech**<br>
 Casablanca, Morocco
 
-My professional interests span secure software development, intelligent applications and digital learning systems. I connect implementation work with research questions about reliability, privacy and the human consequences of technical decisions.
+Since April 2026, I work in a hybrid role on Moodle platform architecture, AI-supported educational workflows, security by design and vulnerability assessment. I connect this engineering work with research questions about reliability, privacy and digital learning.
 
 **Academic studies**
 
